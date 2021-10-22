@@ -93,3 +93,37 @@ body{
 .headerMainContainer li{
     list-style-type:none;
 }
+
+.contentTitle{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+}
+
+.contentImage1, .contentImage2, .contentImage3, .contentImage4{
+    width:150px;
+    height:150px;
+  
+    border-color:#3882F6;
+    border-style:solid;
+    border-radius:6px;
+
+}
+.contentIllustrationContainer{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+.content1, .content2, .content3, .content4{
+    width:200px;
+   padding:0 20px;
+  
+    
+}
+
+.contentText{
+    flex-wrap:wrap;
+    width:200px;
+}
