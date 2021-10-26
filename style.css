@@ -101,6 +101,7 @@ body{
 
 }
 
+
 .contentImage1, .contentImage2, .contentImage3, .contentImage4{
     width:150px;
     height:150px;
@@ -127,3 +128,43 @@ body{
     flex-wrap:wrap;
     width:200px;
 }
+
+.descriptionTextArea{
+    background-color:#E5E7EB;
+    
+  
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+    
+}
+.desTextArea1{
+   margin:50px;
+
+}
+
+.desTextArea1 p{
+    font-weight:100;
+    font-size:36px;
+    font-style:italic;
+    color:#1F2937;
+    padding:20px 20px;
+    margin:0;
+    width:800px;
+    box-sizing:border-box;
+   font-weight:100;
+   
+}
+
+.desTextArea2{
+ display:flex; 
+ padding:20px;
+ justify-content:right;
+ box-sizing:border-box;
+ font-weight:1000;
+ font-size:20px;
+}
+
+
+
