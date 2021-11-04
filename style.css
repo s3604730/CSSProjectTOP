@@ -166,5 +166,31 @@ body{
  font-size:20px;
 }
 
+.adTitle p{
+    margin:0;
+    
+    color:#F9FAF8;
+}
+.adTitle{
+    background-color:#3882F6;
+    display:flex;
+    justify-content:center;
+    padding:40px;
+    margin:5% 14%;
+    border-radius:12px;
+}
+.adHeader{
+    font-size:24px;
+   
+  
+}
 
+.adTitle Button{
+    margin-left:20%;
+    background-color:#3882F6;
+    color:#F9FAF8;
+    box-shadow: none;
+    border-radius:12px;
+    border-color:#F9FAF8;
 
+}
