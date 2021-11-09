@@ -194,3 +194,13 @@ body{
     border-color:#F9FAF8;
 
 }
+
+.footerClass{
+    background-color:#1F2937;
+    color:#F9FAF8;
+    display:flex;
+    justify-content:center;
+    padding:20px;
+
+
+}
